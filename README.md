@@ -9,7 +9,7 @@
 
 建议先安装 [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) skill
 
-本skill提示词：
+本 skill 提示词：
 ```markdown
 - 分析腾讯控股（00700.HK）
 - 附上FY2024年报+FY2025中报（PDF或表格）
