@@ -3,15 +3,17 @@
 
 ## 介绍
 
-本 SKILL 基于 openclaw(qwen3.5-plus) 和 `skill-creator` 制作，参考文档：[烟蒂股分析Prompt_v1.3 by TeranceJiang](https://docs.qq.com/s/fOUO8jZomi7wZtB1S8gJlG/folder/HHPWTodwxDgl)
+本 SKILL 基于 openclaw(qwen3.5-plus) 和 [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) 制作，参考文档：[烟蒂股分析Prompt_v1.4 by TeranceJiang](https://docs.qq.com/markdown/DSG1OdG5zeWdaeG15?)
 
 ## 使用
 
-先安装 [pdf skill](https://github.com/anthropics/skills/tree/main/skills/pdf)
+建议先安装 [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) skill
 
-提示词：
+本skill提示词：
+```markdown
 - 分析腾讯控股（00700.HK）
 - 附上FY2024年报+FY2025中报（PDF或表格）
+```
 
 ## 鸣谢
 
