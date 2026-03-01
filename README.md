@@ -3,7 +3,7 @@
 
 ## 介绍
 
-本 SKILL 基于 openclaw(qwen3.5-plus) 和 [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) 制作，参考文档：[烟蒂股分析Prompt_v1.4 by TeranceJiang](https://docs.qq.com/markdown/DSG1OdG5zeWdaeG15?)
+本 SKILL 基于 openclaw(qwen3.5-plus) 和 [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) 制作，参考文档：[烟蒂股分析Prompt_v1.7 by TeranceJiang](https://docs.qq.com/s/o6So4ooGKTXtbNfBxAbtKW/folder/HEyagRtSUuJD)
 
 ## 使用
 
