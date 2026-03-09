@@ -1,13 +1,12 @@
 # 静态价值型烟蒂股量化分析 SKILL
-> "Slow is fast."
 
 ## 介绍
 
-本 SKILL 基于 openclaw(qwen3.5-plus) 和 [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) 制作，参考文档：[烟蒂股分析Prompt_v1.7 by TeranceJiang](https://docs.qq.com/s/o6So4ooGKTXtbNfBxAbtKW/folder/HEyagRtSUuJD)
+本 SKILL 基于 openclaw(qwen3.5-plus) 和 [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) 制作，参考文档：[烟蒂股分析Prompt_v1.8 by TeranceJiang](https://terancejiang.github.io/Stock_Analyze_Prompts/cigbutt/%E7%83%9F%E8%92%82%E8%82%A1%E5%88%86%E6%9E%90Prompt_v1.8/)
 
 ## 使用
 
-建议先安装 [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) skill
+建议先安装 [pdf skill](https://github.com/anthropics/skills/tree/main/skills/pdf) ➕ [yfinance mcp](https://github.com/narumiruna/yfinance-mcp)
 
 本 skill 提示词：
 ```markdown
